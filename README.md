@@ -23,17 +23,11 @@ O layout foi desenvolvido pela equipe da Rocketseat
 ### Mobile
 
 <p align="center">
-  <img alt="Condomínio" title="#Condominio" src="" width="200px">
+  <img alt="chapter" title="#chapter" src="https://raw.githubusercontent.com/jeandsontb/React-Native-Chapter-01/main/Screens/todo00.jpg" width="200px">
 
-  <img alt="Condomínio" title="#Condominio" src="" width="200px">
+  <img alt="chapter" title="#chapter" src="https://raw.githubusercontent.com/jeandsontb/React-Native-Chapter-01/main/Screens/todo01.jpg" width="200px">
 
-  <img alt="Condomínio" title="#Condominio" src="" width="200px">
-
-  <img alt="Condomínio" title="#Condominio" src="" width="200px">
-
-  <img alt="Condomínio" title="#Condominio" src="" width="200px">
-
-  <img alt="Condomínio" title="#Condominio" src="" width="200px">
+  <img alt="chapter" title="#chapter" src="https://raw.githubusercontent.com/jeandsontb/React-Native-Chapter-01/main/Screens/todo02.jpg" width="200px">
 </p>
 
 ## 🛠 Tecnologias
