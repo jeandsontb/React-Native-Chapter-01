@@ -2,10 +2,6 @@
    DESAFIO: CONCEITOS DO REACT NATIVE
 </h1>
 
-<h4 align="center"> 
-	🚧 Projeto na versão 1.0 mobile para gestão de condomínio, em construção... 🚧
-</h4>
-
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/static/v1?label=Language&message=4&color=green&style=for-the-badge&logo=ghost">
 
